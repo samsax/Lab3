@@ -3,6 +3,10 @@ Lab3
 
 Laboratorio 3 arquitectura de software
 
+Script Base de datos
+
+Nombre base de datos fruit
+
  CREATE TABLE fruit
 (
 	idfruta VARCHAR(8) not null primary key,
